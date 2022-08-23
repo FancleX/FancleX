@@ -9,7 +9,7 @@
 - 🌱 I’m currently working on the Talksnap project - a microservices architected multimedia communication application.
 - 📈 I’m proficient in SpringBoot, SpringWeb, SpringData, Netty, Vue.js, Element plus, Vuex.
 - ⚡ Fun fact: ACG(Anime, Comedy, Game) deep lover.
-- 💬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ZhicunChen-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhicun-chen-0b0293203/) [![Outlook](https://img.shields.io/badge/-chen.zhicu@northeastern.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:chen.zhicu@northeastern.edu)
+- 💬 Welcome to reach me out: [![Linkedin Badge](https://img.shields.io/badge/-ZhicunChen-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhicun-chen-0b0293203/) [![Outlook](https://img.shields.io/badge/-chen.zhicu@northeastern.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:chen.zhicu@northeastern.edu)
 
 #### ⚡Technologies:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
