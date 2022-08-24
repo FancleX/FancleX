@@ -6,7 +6,7 @@
 🔥 About me:
 - 🎓 I’m a master's student at NEU, pursuing Computer Science.
 - 🔭 I’m enthusiastic about Java backend, web and distributed systems development, and interested in learning new technologies.
-- 🌱 I’m currently working on the Talksnap project - a microservices architected multimedia communication application.
+- 🌱 I’m currently working on the [Talksnap](https://github.com/FancleX/TalkSnap) project - a microservices architected multimedia communication application.
 - 📈 I’m proficient in SpringBoot, SpringWeb, SpringData, Netty, Vue.js, Element plus, Vuex.
 - ⚡ Fun fact: ACG(Anime, Comedy, Game) deep lover.
 - 💬 Welcome to reach me out: [![Linkedin Badge](https://img.shields.io/badge/-ZhicunChen-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhicun-chen-0b0293203/) [![Outlook](https://img.shields.io/badge/-chen.zhicu@northeastern.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:chen.zhicu@northeastern.edu)
