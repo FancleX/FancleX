@@ -41,6 +41,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-<img align="left" height="175px" src="https://github-readme-stats.vercel.app/api?username=FancleX&include_all_commits=true&count_private-true&custom_title=FancleX'%20GitHub%20Stats&line_height=25&show_icons=true&hide_border=true&bg_color=0,ffff99,33ccff,9999ff&title_color=graywhite&icon_color=efb752&text_color=000000"><img align="" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FancleX&hide_title=false&hide_border=true&layout=compact&bg_color=0,ffff99,33ccff,9999ff&theme=graywhite&locale=en" />
+<img align="left" height="175px" src="https://github-readme-stats.vercel.app/api?username=FancleX&include_all_commits=true&count_private=true&custom_title=FancleX'%20GitHub%20Stats&line_height=25&show_icons=true&hide_border=true&bg_color=0,ffff99,33ccff,9999ff&title_color=graywhite&icon_color=efb752&text_color=000000"><img align="" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FancleX&hide_title=false&hide_border=true&layout=compact&bg_color=0,ffff99,33ccff,9999ff&theme=graywhite&locale=en" />
 
 
